@@ -4,8 +4,8 @@ import numpy as np
 
 # Define input features:
 input_features = np.array([[1,0,0,1],[1,0,0,0],[0,0,1,1],
- [0,1,0,0],[1,1,0,0],[0,0,1,1],
- [0,0,0,1],[0,0,1,0]])
+    [0,1,0,0],[1,1,0,0],[0,0,1,1],
+    [0,0,0,1],[0,0,1,0]])
 
 print (input_features.shape)
 print (input_features)
