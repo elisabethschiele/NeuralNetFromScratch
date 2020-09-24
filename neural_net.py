@@ -1,5 +1,7 @@
 # Import required libraries:
 import numpy as np
+
+
 # Define input features:
 input_features = np.array([[1,0,0,1],[1,0,0,0],[0,0,1,1],
  [0,1,0,0],[1,1,0,0],[0,0,1,1],
