@@ -1,2 +1,2 @@
 # NeuralNetFromScratch
-Trying to implement a neural network without and ML libraries
+Trying to implement a neural network without any ML libraries
